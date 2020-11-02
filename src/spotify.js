@@ -2,7 +2,7 @@
 
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 
-const redirectUri = "https://spotify-clone-app-ameen.netlify.app/";
+const redirectUri = "https://spotify-clone-react-one.vercel.app/callback/";
 const clientId = "736a89aae46e4d7ab13fdb9f1d695238";
 
 const scopes = [
